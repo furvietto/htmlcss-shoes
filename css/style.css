@@ -49,3 +49,26 @@ h1 {
 #text-green{
     color: green;
 }
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: white;
+    height: 25px;
+    width: 25px;
+    margin-right: 25px;
+    list-style: none;
+}
+
+a{
+    text-align: center;
+    line-height: 25px;
+}
+
+
+.link {
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
